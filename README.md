@@ -2,11 +2,11 @@
 
 ### Objetivos do Projeto 
 
-- Desenvolvido como parte do _bootcamp_ **Randstand - Análise de Dados/DIO** para o uso de ferramentas _Azure Speech Studio_ e  
-   _Azure Language Studio_ para análise de fala e linguagem natural. 
+- Desenvolvido como parte do _bootcamp_ **Randstand - Análise de Dados/DIO** para o uso de ferramentas _Azure Speech Studio_ e _Azure Language Studio_ para análise de fala e linguagem natural. 
 
-- Aplicaremos técnicas no Processamento de linguagem natural (PLN) para identificar e classificar sentimentos em textos com recursos  
-  de inteligência artificial na nuvem através da plataforma MS Azure.
+- Aplicaremos técnicas no Processamento de linguagem natural (PLN) para identificar e classificar sentimentos em textos com recursos de inteligência artificial na nuvem através da plataforma MS Azure.
+
+---
 
 ### Tecnologias e Ferramentas Utilizadas
 
