@@ -1,0 +1,493 @@
+{
+  "data": {
+    "kind": "SentimentAnalysisResults",
+    "results": {
+      "documents": [
+        {
+          "id": "1",
+          "sentiment": "mixed",
+          "confidenceScores": {
+            "positive": 0.96,
+            "neutral": 0.01,
+            "negative": 0.03
+          },
+          "sentences": [
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 0,
+              "length": 966,
+              "text": "id,cliente,comentario,data,nota  \"42,[cliente42],parabÃ©ns pelo sabor e capricho,\"\"24/01/24, 12:48\"\",5\"  \"43,[cliente43],\"\"Muito bom, delicioso, o produto venho muito bem embalado e de brinde ganhei dois bombons\"\",\"\"22/01/24, 13:29\"\",5\"  \"44,[cliente44],Comida deliciosa!,\"\"22/01/24, 13:13\"\",5\"  \"45,[cliente45],\"\"EstÃ£o de parabÃ©ns, tudo muito gostoso, caprichado e vc vÃª muito carinho.\"\",\"\"13/04/25, 13:31\"\",5\"  \"46,[cliente46],muito bom,\"\"07/04/25, 11:04\"\",5\"  \"47,[cliente47],empadÃ£o veio sem um pingo de catupiry,\"\"28/03/25, 16:49\"\",1\"  \"48,[cliente48],Ã“timo atendimento e comida deliciosa.,\"\"04/03/25, 14:59\"\",5\"  \"49,[cliente49],Amei,\"\"04/03/25, 11:01\"\",5\"  \"50,[cliente50],\"\"Ã³tima qualidade , e preÃ§o justo /vale muito a pena !!!\"\",\"\"21/02/25, 12:42\"\",5\"  \"51,[cliente51],\"\"excelÃªncias ao entregador, vcs estÃ£o de parabÃ©ns, gentil e educadissimo\"\",\"\"07/02/25, 16:51\"\",5\"  \"52,[cliente52],\"\"Muito gostoso, veio embalado perfeitamente e com duas balinhas ainda! ",
+              "targets": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 147,
+                  "length": 7,
+                  "text": "produto",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/0/assessments/0"
+                    },
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/0/assessments/1"
+                    }
+                  ]
+                }
+              ],
+              "assessments": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 129,
+                  "length": 3,
+                  "text": "bom",
+                  "isNegated": false
+                },
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 134,
+                  "length": 9,
+                  "text": "delicioso",
+                  "isNegated": false
+                }
+              ]
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 966,
+              "length": 70,
+              "text": "amei\"\",\"\"31/01/25, 13:50\"\",5\"  \"53,[cliente53],\"\"Extremamente gostoso! ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "neutral",
+              "confidenceScores": {
+                "positive": 0.05,
+                "neutral": 0.92,
+                "negative": 0.04
+              },
+              "offset": 1036,
+              "length": 32,
+              "text": "Fora o capricho das embalagens. ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 1068,
+              "length": 531,
+              "text": "Da pra saber que tudo Ã© de Ã³tima qualidade, parabÃ©ns!!\"\",\"\"26/01/25, 14:58\"\",5\"  \"54,[cliente54],\"\"O escondidinho de frango estava maravilhoso, comida com gostinho de casa.\"\",\"\"18/01/25, 14:44\"\",5\"  \"55,[cliente55],\"\"maravilhoso, muito bem feito, ganharam uma cliente\"\",\"\"29/11/24, 16:48\"\",5\"  \"56,[cliente56],o recheio Ã© bastante Ãºmido e isso interfere na qualidade da massa.,\"\"20/11/24, 14:24\"\",4\"  \"57,[cliente57],muito bom !!,\"\"17/11/24, 15:38\"\",5\"  \"58,[cliente58],\"\"EstÃ£o de parabÃ©ns, pelo tempero, a rapidez e atenÃ§Ã£o ! ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 1599,
+              "length": 182,
+              "text": "Deus abenÃ§oe !\"\",\"\"06/11/24, 21:13\"\",5\"  \"59,[cliente59],muito bom !!,\"\"05/10/24, 16:18\"\",5\"  \"60,[cliente60],bom demais!,\"\"01/10/24, 13:08\"\",5\"  \"61,[cliente61],\"\"Tudo maravilhoso!!! ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 1781,
+              "length": 103,
+              "text": "SÃ£o super educados, a embalagem muito boa, vem tudo com muito carinho e sem falar da comida perfeita! ",
+              "targets": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 1824,
+                  "length": 9,
+                  "text": "embalagem",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/5/assessments/0"
+                    }
+                  ]
+                },
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 1887,
+                  "length": 6,
+                  "text": "comida",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/5/assessments/1"
+                    }
+                  ]
+                }
+              ],
+              "assessments": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 1840,
+                  "length": 3,
+                  "text": "boa",
+                  "isNegated": false
+                },
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 1894,
+                  "length": 8,
+                  "text": "perfeita",
+                  "isNegated": false
+                }
+              ]
+            },
+            {
+              "sentiment": "negative",
+              "confidenceScores": {
+                "positive": 0.48,
+                "neutral": 0,
+                "negative": 0.52
+              },
+              "offset": 1884,
+              "length": 286,
+              "text": "com toda certeza pedirei mais vezes\"\",\"\"28/09/24, 13:11\"\",5\"  \"62,[cliente62],Achei o tempero de ervas do recheio do empadÃ£o forte demais.,\"\"26/09/24, 13:39\"\",5\"  \"63,[cliente63],O escondidinho Ã© uma delÃ­cia!,\"\"22/09/24, 12:35\"\",5\"  \"64,[cliente64],DifÃ­cil definir qual estava melhor. ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 2170,
+              "length": 212,
+              "text": "Simplesmente DIVINO.,\"\"21/09/24, 16:31\"\",5\"  \"65,[cliente65],Entregador muito educado.e simpÃ¡tico.,\"\"20/09/24, 13:19\"\",5\"  \"66,[cliente66],Muito saboroso como sempre!,\"\"14/09/24, 21:18\"\",5\"  \"67,[cliente67],curti. ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "neutral",
+              "confidenceScores": {
+                "positive": 0.03,
+                "neutral": 0.95,
+                "negative": 0.02
+              },
+              "offset": 2382,
+              "length": 40,
+              "text": "mas achei o sabor de curry muito forte. ",
+              "targets": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 0.88,
+                    "negative": 0.12
+                  },
+                  "offset": 2420,
+                  "length": 5,
+                  "text": "sabor",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/8/assessments/0"
+                    }
+                  ]
+                }
+              ],
+              "assessments": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 0.88,
+                    "negative": 0.12
+                  },
+                  "offset": 2441,
+                  "length": 5,
+                  "text": "forte",
+                  "isNegated": false
+                }
+              ]
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 2422,
+              "length": 193,
+              "text": "acho que foi curry que senti,\"\"13/09/24, 23:05\"\",5\"  \"68,[cliente68],melhor de todos,\"\"03/09/24, 16:03\"\",5\"  \"69,[cliente69],Excelente empadao,\"\"27/08/24, 14:24\"\",5\"  \"70,[cliente70],\"\"delicioso! ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 0.98,
+                "neutral": 0.02,
+                "negative": 0
+              },
+              "offset": 2615,
+              "length": 142,
+              "text": "atendimento Ã³timo, parabÃ©ns\"\",\"\"27/08/24, 13:43\"\",5\"  \"71,[cliente71],Delicioso,\"\"24/08/24, 14:34\"\",5\"  \"72,[cliente72],\"\"Sensacional demais! ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 2757,
+              "length": 142,
+              "text": "Experimentem os escondidinhos, galera!\"\",\"\"20/08/24, 23:00\"\",5\"  \"73,[cliente73],\"\"Excelente atendimento, excelente refeiÃ§Ã£o, tudo perfeito! ",
+              "targets": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 2904,
+                  "length": 10,
+                  "text": "refeiÃ§Ã£o",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/11/assessments/0"
+                    }
+                  ]
+                }
+              ],
+              "assessments": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 2894,
+                  "length": 9,
+                  "text": "excelente",
+                  "isNegated": false
+                }
+              ]
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 2899,
+              "length": 390,
+              "text": "pedirei mais vezes!\"\",\"\"17/08/24, 20:19\"\",5\"  \"74,[cliente74],o melhor de todos,\"\"10/08/24, 18:04\"\",5\"  \"75,[cliente75],\"\"Comida saborosa, temperatura perfeita e atendimento Ã­mpar!\"\",\"\"31/07/24, 12:32\"\",5\"  \"76,[cliente76],\"\"EstÃ£o de parabÃ©ns pela comida, atendimento e atÃ© embalagem.\"\",\"\"25/07/24, 16:35\"\",5\"  \"77,[cliente77],muito bom !!,\"\"23/07/24, 14:20\"\",5\"  \"78,[cliente78],Excelente. ",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 3289,
+              "length": 292,
+              "text": "Muito gostoso.,\"\"19/07/24, 19:02\"\",5\"  \"79,[cliente79],adorei o empadÃ£o de frango cremoso delicioso,\"\"14/07/24, 13:11\"\",5\"  \"80,[cliente80],Comida muito gostosa e gerÃªncia muito fofa.,\"\"13/07/24, 16:49\"\",5\"  \"81,[cliente81],\"\"Simplesmente perfeito, estÃ£o de parabÃ©ns, muito capricho e sabor.",
+              "targets": [],
+              "assessments": []
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 3581,
+              "length": 113,
+              "text": "Continuem assim\"\",\"\"30/06/24, 14:56\"\",5\"  \"82,[cliente82],\"\"caprichosa, saborosa, muito boa, estÃ£o de parabÃ©ns. ",
+              "targets": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 3724,
+                  "length": 9,
+                  "text": "parabÃ©ns",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/14/assessments/0"
+                    },
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/14/assessments/1"
+                    }
+                  ]
+                }
+              ],
+              "assessments": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 3693,
+                  "length": 8,
+                  "text": "saborosa",
+                  "isNegated": false
+                },
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 3709,
+                  "length": 3,
+                  "text": "boa",
+                  "isNegated": false
+                }
+              ]
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 3694,
+              "length": 198,
+              "text": "farei outros pedidos, czrtz\"\",\"\"29/06/24, 14:55\"\",5\"  \"83,[cliente83],\"\"Sempre maravilhoso, um capricho sÃ³!\"\",\"\"12/06/24, 19:05\"\",5\"  \"84,[cliente84],\"\"O melhor da regiÃ£o, sempre quentinho, fresco. ",
+              "targets": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 3900,
+                  "length": 7,
+                  "text": "regiÃ£o",
+                  "relations": [
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/15/assessments/0"
+                    },
+                    {
+                      "relationType": "assessment",
+                      "ref": "#/documents/0/sentences/15/assessments/1"
+                    }
+                  ]
+                }
+              ],
+              "assessments": [
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 1,
+                    "negative": 0
+                  },
+                  "offset": 3890,
+                  "length": 6,
+                  "text": "melhor",
+                  "isNegated": false
+                },
+                {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                    "positive": 0.99,
+                    "negative": 0.01
+                  },
+                  "offset": 3927,
+                  "length": 6,
+                  "text": "fresco",
+                  "isNegated": false
+                }
+              ]
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 0.93,
+                "neutral": 0.07,
+                "negative": 0
+              },
+              "offset": 3892,
+              "length": 56,
+              "text": "Vale muito a pena, recomendo!!\"\",\"\"11/06/24, 19:05\"\",5\"  ",
+              "targets": [],
+              "assessments": []
+            }
+          ],
+          "warnings": []
+        }
+      ],
+      "errors": [],
+      "modelVersion": "2025-01-01"
+    }
+  },
+  "headers": {},
+  "status": 200,
+  "statusText": ""
+}
