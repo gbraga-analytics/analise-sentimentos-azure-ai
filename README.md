@@ -25,7 +25,10 @@
 
 ```
 
-Para aproximar o projeto de um cenário real, utilizei um conjunto de 303 avaliações coletadas no Duo Gourmet Delivery. Essas avaliações foram extraídas da base de dados do dashboard (dados devidamente anonimizados) e representam feedbacks genuínos de clientes sobre qualidade, atendimento e tempo de entrega. Após extração, tratamento e limpeza, foram identificados 84 avaliações com comentários válidos, que compõem a amostra utilizada.
+Para aproximar o projeto de um cenário real, utilizei um conjunto de 303 avaliações coletadas no Duo Gourmet Delivery.
+Essas avaliações foram extraídas da base de dados do dashboard (dados devidamente anonimizados) e representam feedbacks
+genuínos de clientes sobre qualidade, atendimento e tempo de entrega. Após extração, tratamento e limpeza, foram
+identificados 84 avaliações com comentários válidos, que compõem a amostra utilizada.
 
 ```
  
@@ -92,6 +95,7 @@ O projeto abre margem para projeções futuras. Como por exemplo, para um próxi
 | Técnica _Opinion Mining_
 
 <br/>
+
 ---
 
 
