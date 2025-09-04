@@ -1,0 +1,85 @@
+id,cliente,comentario,data,nota
+1,[cliente1],"Muito bom, super recomendo!!!","07/06/25, 13:28",5
+2,[cliente2],"Muito saboroso, parabéns. Só podia ter uma opção ainda maior","17/05/25, 16:35",5
+3,[cliente3],Muito bom !!,"02/06/24, 16:11",5
+4,[cliente4],Veio com muito capricho e delicioso. Ótimo atendimento.,"26/05/24, 13:42",5
+5,[cliente5],"Escondidinho de carne seca estava impecável! O empadão de frango também é muito gostoso, porém achei que faltou um pouco de tempero no frango.","19/05/24, 14:46",5
+6,[cliente6],Amei tudo! Desde a MARAVILHOSA apresentação até o sabor! Incrível! Parabéns!,"19/05/24, 14:00",5
+7,[cliente7],Delicioso!,"15/05/24, 12:37",5
+8,[cliente8],"uma hora e meia, e ainda esqueceu de entregar o refri","12/05/24, 14:51",2
+9,[cliente9],"Muito gostosa, excelente sabor.","08/05/24, 14:53",5
+10,[cliente10],tudo muito bom!! ainda vem mimo,"05/05/24, 13:53",5
+11,[cliente11],tud fresquinho rápido sem contar o capricho e cuidado com o cliente ! ainda ganhei bilhetinho e balinha,"05/05/24, 12:56",5
+12,[cliente12],muito bom mesmo!!!! ingredientes de excelente qualidade e tanto o atendimento quanto o motoboy muito simpáticos. recomendo,"30/04/24, 15:42",5
+13,[cliente13],"Tudo muito caprichoso, do escondinho à embalagem e muito gostoso também!","30/04/24, 14:16",5
+14,[cliente14],"me surpreendi, desde a embalagem, muito caprichosa, ao prato, tudo fresquinho e muito gostoso, comida de mãe","24/04/24, 13:05",5
+15,[cliente15],uma delícia,"20/04/24, 14:16",5
+16,[cliente16],"O tempero uma delícia, ótimo pós venda!!!","18/04/24, 15:43",5
+17,[cliente17],"da pra sentir que é feito com amor pela embalagem, pelo cuidado, pela entrega simpatica, e principalmente pelo sabor INCRIVEL!!! parabens e obrigada.","17/04/24, 15:04",5
+18,[cliente18],"muito bom, entregador gente boa","02/04/24, 15:55",5
+19,[cliente19],"Perfeito de mais, embalagem, tempo de entrega e sabor","22/03/24, 14:14",5
+20,[cliente20],muito bomm,"19/03/24, 13:55",5
+21,[cliente21],excelente,"16/03/24, 16:29",5
+22,[cliente22],preço justo e ótima qualidade /recomendo !,"13/03/24, 16:44",5
+23,[cliente23],maravilhoso,"12/03/24, 10:27",5
+24,[cliente24],maravilhoso e muito caprichado.,"08/03/24, 16:16",5
+25,[cliente25],"gostei muito, preço justo comida boa, aqui em Valença são poucos assim, sucesso!","06/03/24, 11:43",5
+26,[cliente26],ótimo,"27/02/24, 14:37",5
+27,[cliente27],tudo muito bom! amei!,"21/02/24, 16:48",5
+28,[cliente28],muito bem temperado a comida! uma delícia,"15/02/24, 16:48",5
+29,[cliente29],Escondidinho de frango maravilhoso!!,"15/02/24, 13:31",5
+30,[cliente30],Comida deliciosa ! Chegou super rápido ! amei,"09/02/24, 12:36",5
+31,[cliente31],entregar gente fina,"05/02/24, 12:24",5
+32,[cliente32],Tudo muito bom!,"03/02/24, 15:36",5
+33,[cliente33],Tudo maravilhoso como sempre,"03/02/24, 13:16",5
+34,[cliente34],Escondidinho de carne muito gostoso,"02/02/24, 12:56",5
+35,[cliente35],Muitoo bommm,"31/01/24, 13:59",5
+36,[cliente36],"Ótimo atendimento e ótima refeição também, tem tudo para dar certo!","29/01/24, 11:17",5
+37,[cliente37],Muito gostoso o escondidinho! Aprovadíssimo!,"27/01/24, 15:08",5
+38,[cliente38],excelente!!!!,"26/01/24, 18:35",5
+39,[cliente39],Excelente,"26/01/24, 13:13",5
+40,[cliente40],Excelente,"26/01/24, 10:51",5
+41,[cliente41],"muito bom,sugiro p entrega após 18hrs","24/01/24, 15:12",5
+42,[cliente42],parabéns pelo sabor e capricho,"24/01/24, 12:48",5
+43,[cliente43],"Muito bom, delicioso, o produto venho muito bem embalado e de brinde ganhei dois bombons","22/01/24, 13:29",5
+44,[cliente44],Comida deliciosa!,"22/01/24, 13:13",5
+45,[cliente45],"Estão de parabéns, tudo muito gostoso, caprichado e vc vê muito carinho.","13/04/25, 13:31",5
+46,[cliente46],muito bom,"07/04/25, 11:04",5
+47,[cliente47],empadão veio sem um pingo de catupiry,"28/03/25, 16:49",1
+48,[cliente48],Ótimo atendimento e comida deliciosa.,"04/03/25, 14:59",5
+49,[cliente49],Amei,"04/03/25, 11:01",5
+50,[cliente50],"ótima qualidade , e preço justo /vale muito a pena !!!","21/02/25, 12:42",5
+51,[cliente51],"excelências ao entregador, vcs estão de parabéns, gentil e educadissimo","07/02/25, 16:51",5
+52,[cliente52],"Muito gostoso, veio embalado perfeitamente e com duas balinhas ainda! amei","31/01/25, 13:50",5
+53,[cliente53],"Extremamente gostoso! Fora o capricho das embalagens. Da pra saber que tudo é de ótima qualidade, parabéns!!","26/01/25, 14:58",5
+54,[cliente54],"O escondidinho de frango estava maravilhoso, comida com gostinho de casa.","18/01/25, 14:44",5
+55,[cliente55],"maravilhoso, muito bem feito, ganharam uma cliente","29/11/24, 16:48",5
+56,[cliente56],o recheio é bastante úmido e isso interfere na qualidade da massa.,"20/11/24, 14:24",4
+57,[cliente57],muito bom !!,"17/11/24, 15:38",5
+58,[cliente58],"Estão de parabéns, pelo tempero, a rapidez e atenção ! Deus abençoe !","06/11/24, 21:13",5
+59,[cliente59],muito bom !!,"05/10/24, 16:18",5
+60,[cliente60],bom demais!,"01/10/24, 13:08",5
+61,[cliente61],"Tudo maravilhoso!!! São super educados, a embalagem muito boa, vem tudo com muito carinho e sem falar da comida perfeita! com toda certeza pedirei mais vezes","28/09/24, 13:11",5
+62,[cliente62],Achei o tempero de ervas do recheio do empadão forte demais.,"26/09/24, 13:39",5
+63,[cliente63],O escondidinho é uma delícia!,"22/09/24, 12:35",5
+64,[cliente64],Difícil definir qual estava melhor. Simplesmente DIVINO.,"21/09/24, 16:31",5
+65,[cliente65],Entregador muito educado.e simpático.,"20/09/24, 13:19",5
+66,[cliente66],Muito saboroso como sempre!,"14/09/24, 21:18",5
+67,[cliente67],curti. mas achei o sabor de curry muito forte. acho que foi curry que senti,"13/09/24, 23:05",5
+68,[cliente68],melhor de todos,"03/09/24, 16:03",5
+69,[cliente69],Excelente empadao,"27/08/24, 14:24",5
+70,[cliente70],"delicioso! atendimento ótimo, parabéns","27/08/24, 13:43",5
+71,[cliente71],Delicioso,"24/08/24, 14:34",5
+72,[cliente72],"Sensacional demais! Experimentem os escondidinhos, galera!","20/08/24, 23:00",5
+73,[cliente73],"Excelente atendimento, excelente refeição, tudo perfeito! pedirei mais vezes!","17/08/24, 20:19",5
+74,[cliente74],o melhor de todos,"10/08/24, 18:04",5
+75,[cliente75],"Comida saborosa, temperatura perfeita e atendimento ímpar!","31/07/24, 12:32",5
+76,[cliente76],"Estão de parabéns pela comida, atendimento e até embalagem.","25/07/24, 16:35",5
+77,[cliente77],muito bom !!,"23/07/24, 14:20",5
+78,[cliente78],Excelente. Muito gostoso.,"19/07/24, 19:02",5
+79,[cliente79],adorei o empadão de frango cremoso delicioso,"14/07/24, 13:11",5
+80,[cliente80],Comida muito gostosa e gerência muito fofa.,"13/07/24, 16:49",5
+81,[cliente81],"Simplesmente perfeito, estão de parabéns, muito capricho e sabor.Continuem assim","30/06/24, 14:56",5
+82,[cliente82],"caprichosa, saborosa, muito boa, estão de parabéns. farei outros pedidos, czrtz","29/06/24, 14:55",5
+83,[cliente83],"Sempre maravilhoso, um capricho só!","12/06/24, 19:05",5
+84,[cliente84],"O melhor da região, sempre quentinho, fresco. Vale muito a pena, recomendo!!","11/06/24, 19:05",5
